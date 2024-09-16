@@ -24,7 +24,7 @@
     </header>
     <div class="row align-items-center">
         <div class="col">
-            <img src="../../images/foto.png" alt="">
+            <img src="../../images/foto.png" alt="" class="rounded-circle">
             <h2>Gabriel Bascope</h2>
         </div>
         <div class="col">
